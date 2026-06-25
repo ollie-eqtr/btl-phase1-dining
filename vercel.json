@@ -1,0 +1,6 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/", "destination": "/phase1-dining-fam-hifi.html" }
+  ]
+}
