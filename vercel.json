@@ -1,7 +1,7 @@
 {
   "cleanUrls": true,
   "rewrites": [
-    { "source": "/hifi", "destination": "/phase1-dining-fam-hifi.html" },
-    { "source": "/lofi", "destination": "/phase1-dining-fam_v7.html" }
+    { "source": "/hifi", "destination": "/phase1-dining-fam-hifi" },
+    { "source": "/lofi", "destination": "/phase1-dining-fam_v7" }
   ]
 }
